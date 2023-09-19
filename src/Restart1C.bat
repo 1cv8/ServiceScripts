@@ -1,3 +1,4 @@
+@echo off
 
 SET LOG_FILE="SCRIPTS.LOG"
 SET SERVICE_1C_NAME="1C:Enterprise 8.3 Server Agent (x86-64)"
